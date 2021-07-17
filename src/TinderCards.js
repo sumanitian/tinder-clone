@@ -13,6 +13,10 @@ function TinderCards() {
             name: 'Jeoff Bezos',
             url: "https://www.biography.com/.image/t_share/MTY2NzA3ODE3OTgwMzcyMjYw/jeff-bezos-andrew-harrer_bloomberg-via-getty-images.jpg",
         },
+        {
+            name: 'Suman Prasad',
+            url: "https://sumanitian.github.io/sumanprasad/images/download.png"
+        },
     ]);
 
     const swiped = (direction, nameToDelete) => {
