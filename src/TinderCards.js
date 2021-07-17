@@ -15,7 +15,7 @@ function TinderCards() {
         },
         {
             name: 'Suman Prasad',
-            url: "https://sumanitian.github.io/sumanprasad/images/download.png"
+            url: "https://sumanitian.github.io/sumanprasad/images/download.png",
         },
     ]);
 
