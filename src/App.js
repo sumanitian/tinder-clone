@@ -6,8 +6,7 @@ function App() {
   return (
     //BEM class naming convention
     <div className="app">
-    <Header />
-      <h1>clone the tinder clone</h1>
+      <Header />
     </div>
   );
 }
